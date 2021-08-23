@@ -2566,7 +2566,7 @@ def check_arguments():
     global global_verbose
     global global_colors
 
-    parser = ArgumentParser(description="""This tool is a rewrite of Mark Lowe's enum4linux.pl, a tool for enumerating information from Windows and Samba systems.
+    parser = ArgumentParser("e4l", description="""This tool is a rewrite of Mark Lowe's enum4linux.pl, a tool for enumerating information from Windows and Samba systems.
             It is mainly a wrapper around the Samba tools nmblookup, net, rpcclient and smbclient. Other than the original tool it allows to export enumeration results
             as YAML or JSON file, so that it can be further processed with other tools.
 
