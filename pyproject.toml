@@ -19,7 +19,7 @@ PyYAML = "^5.4.1"
 
 
 [tool.poetry.scripts]
-shellcode = 'e4l.__main__:main'
+e4l = 'e4l.__main__:main'
 
 
 [tool.poetry.dev-dependencies]
