@@ -2,7 +2,7 @@
 
 ## Motivation
 
-This is [enum4linux-ng]() but you can install it via pip, because this h4x0rish installations suck.
+This is [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) but you can install it via pip, because this h4x0rish installations suck.
 
 ## Installation
 
